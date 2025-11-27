@@ -1,4 +1,6 @@
-📱 Jornada Android Developer - Kotlin
+ Jornada Android Developer - Kotlin
+
+ ![DIO Logo](src/main/resources/icons/Abstração.webp)![DIO Logo](src/main/resources/icons/Abstração.webp)![DIO Logo](src/main/resources/icons/Abstração.webp)
 
 Bem-vindo ao meu repositório de estudos! Aqui concentro todos os códigos, anotações e soluções dos desafios propostos no bootcamp de Desenvolvimento Android com Kotlin. O objetivo é documentar minha evolução, desde a lógica básica até a arquitetura avançada de apps.
 
@@ -12,8 +14,8 @@ Foco em sintaxe Kotlin, Orientação a Objetos e estruturas de controle.
 
 | Ícone | Desafio | Minha Solução e Tecnologias | Link |
 |-------|---------|-----------------------------|------|
-| ![DIO Logo](src/main/resources/icons/Abstração.webp) | Abstraindo Formações da DIO | POO em Kotlin<br>Modelei as classes Conteudo, Curso e Mentoria para representar a plataforma, aplicando herança e polimorfismo.<br><br>🛠️ Techs: Kotlin, POO | 🔗 Código |
-| ![Code Icon](src/main/resources/icons/Idioma.webp) | Controle de Fluxo e Coleções | Desafio de Código<br>Scripts focados em manipulação de Lists, Maps e estruturas condicionais para resolver problemas lógicos. | 🔗 Código |
+| ![DIO Logo](src/main/resources/icons/Abstração.webp) | Abstraindo Formações da DIO | POO em Kotlin<br>Modelei as classes Conteudo, Curso e Mentoria para representar a plataforma, aplicando herança e polimorfismo.<br><br>🛠️ Techs: Kotlin, POO | 🔗 [Código](https://github.com/CelioPedro/kotlin-lab1/tree/main/src/main/kotlin) |
+| ![Code Icon](src/main/resources/icons/Idioma.webp) | Controle de Fluxo e Coleções | Desafio de Código<br>Scripts focados em manipulação de Lists, Maps e estruturas condicionais para resolver problemas lógicos. | 🔗  |
 
 🟡 Nível Intermediário: Interfaces Nativas
 
@@ -21,6 +23,7 @@ Criação de Apps Android tradicionais (XML/View System) e recursos essenciais.
 
 | Ícone | Desafio | Minha Solução e Tecnologias | Link |
 |-------|---------|-----------------------------|------|
+| ![Translate Icon](src/main/resources/icons/Idiomas.webp) | App com Suporte a Vários Idiomas | Internacionalização<br>Implementação de recursos de String resources e configuração de Locales no Android Studio.<br><br>🛠️ Techs: Android XML, Resources | 🔗 Código |
 | ![Translate Icon](src/main/resources/icons/Idiomas.webp) | App com Suporte a Vários Idiomas | Internacionalização<br>Implementação de recursos de String resources e configuração de Locales no Android Studio.<br><br>🛠️ Techs: Android XML, Resources | 🔗 Código |
 
 🔴 Nível Avançado: Jetpack Compose & Arquitetura
