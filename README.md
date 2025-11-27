@@ -1,8 +1,8 @@
  Jornada Android Developer - Kotlin
 
- ![DIO Logo](src/main/resources/icons/Abstração.webp)![DIO Logo](src/main/resources/icons/Abstração.webp)![DIO Logo](src/main/resources/icons/Abstração.webp)
+ ![DIO Logo](src/main/resources/icons/Kotlin1.webp)![DIO Logo](src/main/resources/icons/Kotlin2.webp)![DIO Logo](src/main/resources/icons/func.webp)
 
-Bem-vindo ao meu repositório de estudos! Aqui concentro todos os códigos, anotações e soluções dos desafios propostos no bootcamp de Desenvolvimento Android com Kotlin. O objetivo é documentar minha evolução, desde a lógica básica até a arquitetura avançada de apps.
+Bem-vindo ao meu repositório de estudos! Aqui concentro os códigos, anotações e soluções dos desafios propostos no bootcamp de Desenvolvimento Android com Kotlin. O objetivo é documentar minha evolução, desde a lógica básica até a arquitetura avançada de apps.
 
 🚀 Desafios e Projetos
 
@@ -24,7 +24,7 @@ Criação de Apps Android tradicionais (XML/View System) e recursos essenciais.
 | Ícone | Desafio | Minha Solução e Tecnologias | Link |
 |-------|---------|-----------------------------|------|
 | ![Translate Icon](src/main/resources/icons/Idiomas.webp) | App com Suporte a Vários Idiomas | Internacionalização<br>Implementação de recursos de String resources e configuração de Locales no Android Studio.<br><br>🛠️ Techs: Android XML, Resources | 🔗 Código |
-| ![Translate Icon](src/main/resources/icons/Idiomas.webp) | App com Suporte a Vários Idiomas | Internacionalização<br>Implementação de recursos de String resources e configuração de Locales no Android Studio.<br><br>🛠️ Techs: Android XML, Resources | 🔗 Código |
+| ![Translate Icon](src/main/resources/icons/github.webp) | App para Compartilhamento de Projetos | Portfólio de projetos<br>Criação de um App Android para compartilhar seus projetos.<br><br>🛠️ Techs: Android XML, Resources | 🔗 Código |
 
 🔴 Nível Avançado: Jetpack Compose & Arquitetura
 
