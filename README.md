@@ -1,4 +1,4 @@
- # Jornada Android Developer - Kotlin
+ # Android Developer - Kotlin
 
  ![DIO Logo](src/main/resources/icons/Kotlin1.webp)  ![DIO Logo](src/main/resources/icons/Kotlin2.webp) ![DIO Logo](src/main/resources/icons/func.webp)
 
@@ -20,7 +20,7 @@ Foco em sintaxe Kotlin, Orientação a Objetos e estruturas de controle.
 
 | Ícone | Desafio | Minha Solução e Tecnologias | Link |
 |-------|---------|-----------------------------|------|
-| ![DIO Logo](src/main/resources/icons/Abstração.webp) | Abstraindo Formações da DIO | POO em Kotlin<br>Modelei as classes Conteudo, Curso e Mentoria para representar a plataforma, aplicando herança e polimorfismo.<br><br>🛠️ Techs: Kotlin, POO | 🔗 [Código](https://github.com/CelioPedro/kotlin-lab1/tree/main/src/main/kotlin) |
+| ![DIO Logo](src/main/resources/icons/Abstração.webp) | Abstraindo Formações da DIO | POO em Kotlin<br>Modelei as classes Conteudo, Curso e Mentoria para representar a plataforma, aplicando herança e polimorfismo.<br><br> *Techs: Kotlin, POO* | 🔗 [Código](https://github.com/CelioPedro/kotlin-lab1/tree/main/src/main/kotlin) |
 | ![Code Icon](src/main/resources/icons/func.webp) | Controle de Fluxo e Coleções | Desafio de Código<br>Scripts focados em manipulação de Lists, Maps e estruturas condicionais para resolver problemas lógicos. | 🔗  |
 
 ------------------------------------------------------------------------------------------
@@ -33,8 +33,8 @@ Criação de Apps Android tradicionais (XML/View System) e recursos essenciais.
 
 | Ícone | Desafio | Minha Solução e Tecnologias | Link |
 |-------|---------|-----------------------------|------|
-| ![Translate Icon](src/main/resources/icons/Idiomas.webp) | App com Suporte a Vários Idiomas | Internacionalização<br>Implementação de recursos de String resources e configuração de Locales no Android Studio.<br><br>🛠️ Techs: Android XML, Resources | 🔗 Código |
-| ![Translate Icon](src/main/resources/icons/github.webp) | App para Compartilhamento de Projetos | Portfólio de projetos<br>Criação de um App Android para compartilhar seus projetos.<br><br>🛠️ Techs: Android XML, Resources | 🔗 Código |
+| ![Translate Icon](src/main/resources/icons/Idiomas.webp) | App com Suporte a Vários Idiomas | Internacionalização<br>Implementação de recursos de String resources e configuração de Locales no Android Studio.<br><br> *Techs: Android XML, Resources* | 🔗 Código |
+| ![Translate Icon](src/main/resources/icons/github.webp) | App para Compartilhamento de Projetos | Portfólio de projetos<br>Criação de um App Android para compartilhar seus projetos.<br><br> *Techs: Android XML, Resources* | 🔗 Código |
 
 ------------------------------------------------------------------------------------------
  
@@ -46,27 +46,30 @@ Desenvolvimento moderno com interfaces declarativas e injeção de dependência.
 
 | Ícone | Desafio | Minha Solução e Tecnologias | Link |
 |-------|---------|-----------------------------|------|
-| ![DIO Logo](src/main/resources/icons/CUp.webp) | App para Acompanhar a Copa | Projeto Capstone<br>App completo consumindo API de jogos. Utilizei WorkManager para tarefas em background e Hilt para injeção de dependências.<br><br>🛠️ Techs: Jetpack Compose, Retrofit, Hilt | 🔗 Código |
+| ![DIO Logo](src/main/resources/icons/Cup.webp) | App para Acompanhar a Copa | Projeto Capstone<br>App completo consumindo API de jogos. Utilizei WorkManager para tarefas em background e Hilt para injeção de dependências.<br><br> *Techs: Jetpack Compose, Retrofit, Hilt* | 🔗 Código |
 
 ------------------------------------------------------------------------------------------
 
-🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas:
 
 ### Tópicos Estudados
 
 | Categoria | Tecnologias | Ícones |
 |-----------|-------------|--------|
-| **Arquitetura** | MVVM, Clean Architecture | 🏗️ |
-| **Bibliotecas** | Retrofit, Room, Hilt, WorkManager | 📚 |
-| **UI** | XML Layouts, Jetpack Compose | 🎨 |
+| **Arquitetura** | MVVM, Clean Architecture | ![CLean](https://img.shields.io/badge/Clean%20Architecture%20-7F52FF?style=for-the-badge&logo=jetpack-compose&logoColor=white)|
+| **Bibliotecas** | Retrofit, Room, Hilt, WorkManager |  ![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| **UI** | XML Layouts, Jetpack Compose | ![Jetpack](https://img.shields.io/badge/Jetpack%20Compose-7F52FF?style=for-the-badge&logo=jetpack-compose&logoColor=white) |
 | **Linguagem** | Kotlin | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) |
 | **IDE** | Android Studio | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) |
 | **Plataforma** | Android | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
 
-📂 Estrutura do Repositório
+------------------------------------------------------------------------------------------
+
+## 📂 Estrutura do Repositório
 
 Como este repositório agrupa vários laboratórios, a estrutura segue o padrão do curso:
 
+```
 ├── 📁 .idea/                # Configurações do IntelliJ/Android Studio
 ├── 📁 src/
 │   └── 📁 main/
@@ -75,6 +78,7 @@ Como este repositório agrupa vários laboratórios, a estrutura segue o padrão
 │           └── 📁 desafio2  # Solução do desafio de Controle de Fluxo
 ├── 📁 projetos/             # Apps Android completos (Copa, Idiomas, etc)
 └── 📄 README.md             # Documentação principal
+```
 
 
 🤝 Contato
