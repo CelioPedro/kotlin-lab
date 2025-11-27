@@ -1,8 +1,12 @@
- # Android Developer - Kotlin
+ # Android Developer - Kotlin 
 
- ![DIO Logo](src/main/resources/icons/Kotlin1.webp)  ![DIO Logo](src/main/resources/icons/Kotlin2.webp) ![DIO Logo](src/main/resources/icons/func.webp)
+Bem-vindo ao meu repositório de estudos! Aqui concentro os códigos, anotações e soluções dos desafios propostos no bootcamp de Desenvolvimento Android com Kotlin.
 
-Bem-vindo ao meu repositório de estudos! Aqui concentro os códigos, anotações e soluções dos desafios propostos no bootcamp de Desenvolvimento Android com Kotlin. O objetivo é documentar minha evolução, desde a lógica básica até a arquitetura avançada de apps.
+ ![DIO Logo](src/main/resources/icons/mobiledev.webp) 
+
+### O objetivo é documentar minha evolução, desde a lógica básica até a arquitetura avançada de apps.
+
+ ![DIO Logo](src/main/resources/icons/Kotlin11.webp)  ![DIO Logo](src/main/resources/icons/Kotlin2.webp) ![DIO Logo](src/main/resources/icons/func.webp)
 
 ## Desafios e Projetos:
 
