@@ -1,20 +1,18 @@
-# Desafio de Projeto (Lab1)
+# Desafio de Projeto (Lab 1): Abstração de Formações
 
-Desafio de Projeto criado para avaliação do conteúdo técnico explorado no repositório [aprenda-kotlin-com-exemplos](https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos). **Nesse contexto, iremos abstrair o seguinte domínio de aplicação:**
-
-**A [DIO](https://web.dio.me) possui `Formacoes` incríveis que têm como objetivo oferecer um conjunto de `ConteudosEducacionais` voltados para uma stack tecnológica específica, preparando profissionais de TI para o mercado de trabalho. `Formacoes` possuem algumas características importantes, como `nome`, `nivel` e seus respectivos `conteudosEducacionais`. Além disso, tais experiências educacionais têm um comportamento relevante ao nosso domínio, definido pela capacidade de `matricular` um ou mais `Alunos`.**
+Este desafio de projeto teve como objetivo aplicar os conceitos de **Programação Orientada a Objetos (POO)** em Kotlin para modelar o domínio de uma plataforma de cursos online, como a DIO.
 
 ---
 
 ## Solução Proposta
 
-A solução para este desafio foi implementada em Kotlin, seguindo as melhores práticas e uma estrutura de projeto organizada. O código-fonte principal pode ser encontrado no arquivo `desafio1.kt`.
+A solução foi implementada em um único arquivo Kotlin, seguindo uma estrutura limpa e organizada. O código-fonte principal pode ser encontrado no arquivo `desafioAbstraçãoFormações).kt`.
 
 ### Como Encontrar o Arquivo da Solução
 
 O arquivo com a implementação completa está localizado no seguinte caminho dentro do projeto:
 
-`src/main/kotlin/desafio1.kt`
+`src/main/kotlin/desafioAbstraçãoFormações).kt`
 
 ### Estrutura do Código
 
@@ -31,9 +29,9 @@ A função `main` contém um cenário de exemplo completo, com a criação de m�
 
 ### Como Executar o Código
 
-1.  Navegue até o arquivo `src/main/kotlin/desafio1.kt` no seu IDE.
+1.  Navegue até o arquivo `src/main/kotlin/desafioAbstraçãoFormações).kt` no seu IDE.
 2.  Localize a função `main()`.
 3.  Clique no ícone de "play" (▶️) que aparece na margem esquerda, ao lado da declaração da função.
-4.  Selecione a opção **Run 'Desafio1Kt'** no menu que surgir.
+4.  Selecione a opção **Run 'DesafioAbstraçãoFormações_Kt'** no menu que surgir.
 
 O resultado da execução, com os logs de matrícula e os relatórios detalhados de cada formação, será exibido na janela de console **Run**.
